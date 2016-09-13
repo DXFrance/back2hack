@@ -12,7 +12,6 @@ You can go to [azure.com](https://azure.microsoft.com/en-us/), Documentation. Th
 - Data & Storage
     - Storage: the service where your dataset will be available to you. It can store virtual hard disks, files, HDInsight considers it as its default Hadoop distributed file system
     - SQL Data Warehouse: create your own relational database that can run on multiple nodes and gets data from its Polybase engine (define an external table to Azure storage and load data that way)
-    - Azure Data Lake Analytics 
 - Intelligence
     - Cognitive Services: deep learning made easy. Just use the API that are made available to you for images, language, and other subjects
 - Analytics
