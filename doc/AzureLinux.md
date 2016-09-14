@@ -65,6 +65,16 @@ You shoud now have the following files:
 
 This is explained at <https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-quick-create-portal/>
 
+You may also want to use the [Microsoft Data Science Virtual Machine](https://blogs.technet.microsoft.com/machinelearning/2016/09/13/recent-updates-to-the-microsoft-data-science-virtual-machine/).
+
+![](vms/linux.png)
+
+![](vms/content.png)
+
+You can create your instance from <https://portal.azure.com>
+
+![](vms/new.png)
+
 ## Create an SSH tunnel
 
 In some cases, you may need to open an SSH tunnel so that your laptop can access the same resources as the Linux VM you are connected to.
