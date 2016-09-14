@@ -1,4 +1,4 @@
-# Azure PASS (to be updated)
+# Azure PASS
 
 The generic documentation to redeem your Azure PASS is at [https://www.microsoftazurepass.com/howto](https://www.microsoftazurepass.com/howto).
 
