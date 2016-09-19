@@ -26,7 +26,7 @@ In this repo, you'll find more specific documentation. Here are the topics cover
 
 - [How can I create an Azure subscription with the PASS code I received?](AzurePASS.md)
 - [How can I get the dataset?](GetTheData.md)
-- [Where can I get some useful tools?](Tools.md)
+- [Where can I get some useful tools to access Azure?](Tools.md)
 - [How to create and use a Linux VM on Azure?](AzureLinux.md)
 - [How to create and use a Windows VM on Azure?](AzureWindows.md)
 - [How could I leverage Docker?](Docker.md)
@@ -34,6 +34,8 @@ In this repo, you'll find more specific documentation. Here are the topics cover
 - [How can I get started with the Cognitive Services APIs?](CognitiveServices.md)
 - [How can I start with Azure Data Lake Analytics (serverless big data queries)](AzureDataLake.md)
 - [HDInsight - How can I run Hadoop/Spark/R Server as a service?](HDInsight.md)
+- [How can I load my data and analyze it in a relational database?](AzureSQLDW.md)
+- [How can I visualize my data?](PowerBI.md)
 - [How can I analyze text?](Text.md)
 
 Here are a few additional public links: 
