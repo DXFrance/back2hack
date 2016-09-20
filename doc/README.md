@@ -36,6 +36,7 @@ In this repo, you'll find more specific documentation. Here are the topics cover
 - [HDInsight - How can I run Hadoop/Spark/R Server as a service?](HDInsight.md)
 - [How can I load my data and analyze it in a relational database?](AzureSQLDW.md)
 - [How can I visualize my data?](PowerBI.md)
+- [How much did I spend in my Azure subscription?](AzureConsumption.md)
 - [How can I analyze text?](Text.md)
 
 Here are a few additional public links: 

@@ -8,3 +8,5 @@ For this Hackathon, here are additional details:
 - you can only redeem one PASS per Microsoft account. 
 - You may want to share your subscription with your teammates. To do that, you can add co-admins by going to [https://manage.windowsazure.com](https://manage.windowsazure.com), Settings (at the bottom left of the screen), and add administrators:
 ![](azurepass/1.png)
+
+If you need to to know how much you've spent so far, see [AzureConsumption](AzureConsumption.md)
