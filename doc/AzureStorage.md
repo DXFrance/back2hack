@@ -34,5 +34,5 @@ Retrieve the storage key. You can use the primary access key or the secondary ac
 
 ## use tools
 
-Then, you can use [Azure blob storage tools](tools.md) (see the bottom of the page) to copy data into or from the storage account.
+Then, you can use [Azure blob storage tools](Tools.md) (see *Azure blob Storage tools* in the page) to copy data into or from the storage account.
 
