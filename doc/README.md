@@ -2,6 +2,8 @@
 
 Documentation on tools you may want to use during the http://back2hack.bemyapp.com/ hackathon
 
+You can also find the slides that were presented during the Microsoft workshop on Friday night [on OneDrive](https://1drv.ms/p/s!AuPv5eHi38P8paogwCXmFlHbEW474g).
+
 You can go to [azure.com](https://azure.microsoft.com/en-us/), Documentation. 
 The main chapters of interest for this Hackathon are: 
 
@@ -25,7 +27,8 @@ The main chapters of interest for this Hackathon are:
 In this repo, you'll find more specific documentation. Here are the topics covered here:
 
 - [How can I create an Azure subscription with the PASS code I received?](AzurePASS.md)
-- [How can I get the dataset?](GetTheData.md)
+- [How can I get the dataset on Azure?](GetTheData.md)
+- [How can I create an Azure storage account?](AzureStorage.md)
 - [Where can I get some useful tools to access Azure?](Tools.md)
 - [How to create and use a Linux VM on Azure?](AzureLinux.md)
 - [How to create and use a Windows VM on Azure?](AzureWindows.md)
