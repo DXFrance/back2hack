@@ -2,6 +2,12 @@
 
 The generic documentation to redeem your Azure PASS is at [https://www.microsoftazurepass.com/howto](https://www.microsoftazurepass.com/howto).
 
+A few hints: 
+- you can create a Microsoft Account from https://account.microsoft.com
+- while creating from https://microsoftazurepass.com, if the page takes time to load, please wait. 
+- After the subscription creation, you can see it at https://portal.azure.com
+- want to see the $100 / €85, see [the AzureConsumption page](AzureConsumption.md)
+
 For this Hackathon, here are additional details: 
 
 - the country must be: France
