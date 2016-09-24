@@ -98,3 +98,7 @@ Connect to the HDInsight head node, and follow links as if you were browsing fro
 
 
 ![](azurelinux/3.png)
+
+### use Jupyter
+
+On the data science VM, Jupyter is available at `https://{IPAddress}:8000/`
