@@ -1,5 +1,10 @@
 # Azure PASS
 
+PREFERRED WAY: 
+
+You may want to [create an organization account together with your new Azure PASS](AzurePASSorg.md)
+
+If you prefer to use a Microsoft account (~personal account),
 The generic documentation to redeem your Azure PASS is at [https://www.microsoftazurepass.com/howto](https://www.microsoftazurepass.com/howto).
 
 A few hints: 
